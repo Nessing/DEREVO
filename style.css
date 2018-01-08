@@ -1,7 +1,7 @@
 .backgroundfon_1 { 
 display: flex; 
 flex-direction: column; 
-background: url(G:/Сайты/сайт_2/image/background-image_1.jpg) center center no-repeat; 
+background: url(image/background-image_1.jpg) center center no-repeat; 
 background-size: cover; 
 height: 100vh; 
 width: 100%;
@@ -166,7 +166,7 @@ color 0.3s ease-in;
 {
 	margin-top: 140px;
 	display: flex;
-	background: url(G:/Сайты/сайт_2/image/VectorSmartObject.png) no-repeat;
+	background: url(/image/VectorSmartObject.png) no-repeat;
 	height: 50vh;
 	width: 45%;
 
@@ -254,7 +254,7 @@ color 0.3s ease-in;
 	border-radius: 22px;
 	height: 30px;
 	width: 200px;
-	background: url(G:/Сайты/сайт_2/image/Searchandthoushallfind.png) 10px no-repeat #fff;
+	background: url(/image/Searchandthoushallfind.png) 10px no-repeat #fff;
 }
 
 
@@ -281,7 +281,7 @@ color 0.3s ease-in;
 	height: 22px;
 	width: 22px;
 	position: absolute;
-	background: url(G:/Сайты/сайт_2/image/Forma1.png) no-repeat;
+	background: url(/image/Forma1.png) no-repeat;
 }
 
 .place__text
@@ -302,7 +302,7 @@ color 0.3s ease-in;
 
 	position: absolute;
 	
-	background: url(G:/Сайты/сайт_2/image/ColorBalance3.png) no-repeat;
+	background: url(/image/ColorBalance3.png) no-repeat;
 	height: 100vh;
 	width: 1130px;
 	margin-left: 70px;
@@ -323,7 +323,7 @@ color 0.3s ease-in;
 
 {
 	position: absolute;
-	background: url(G:/Сайты/сайт_2/image/wimdmill.png) no-repeat;
+	background: url(/image/wimdmill.png) no-repeat;
 	margin-left: 20px;
 	margin-top: 40px;
 	height: 100px;
@@ -370,7 +370,7 @@ color 0.3s ease-in;
 {	
 
 	position: absolute; 
-	background: url(G:/Сайты/сайт_2/image/Mauntin1.png) no-repeat;
+	background: url(/image/Mauntin1.png) no-repeat;
 	margin-top: 1080px;
 	margin-left: 270px;
 	height: 361px;
@@ -394,7 +394,7 @@ color 0.3s ease-in;
 
 {
 	position: absolute;
-	background: url(G:/Сайты/сайт_2/image/ColorBalance4.png) no-repeat;
+	background: url(/image/ColorBalance4.png) no-repeat;
 	margin-top: 1080px;
 	margin-left: 950px;
 	height: 700px;
@@ -406,7 +406,7 @@ color 0.3s ease-in;
 
 {
 	margin-left: 25px;
-	background: url(G:/Сайты/сайт_2/image/Mauntin.png) no-repeat;
+	background: url(/image/Mauntin.png) no-repeat;
 	height: 60px;
 	width: 110px;
 }
@@ -511,7 +511,7 @@ color 0.3s ease-in;
 	margin-right: 40px;
 	padding: 25px;
 	padding-left: 45px;
-	background: url(G:/Сайты/сайт_2/image/BookofWisdom.png) 16px center no-repeat #c3f37f;
+	background: url(/image/BookofWisdom.png) 16px center no-repeat #c3f37f;
 	text-decoration: none;
 	font-size: 25px;
 }
@@ -534,7 +534,7 @@ color 0.3s ease-in;
 	border-radius: 100px;
 	padding: 25px;
 	padding-left: 45px; 
-	background: url(G:/Сайты/сайт_2/image/Printer.png) 10px center no-repeat #3ddbc7;
+	background: url(/image/Printer.png) 10px center no-repeat #3ddbc7;
 	text-decoration: none;
 	font-size: 25px;
 
@@ -558,7 +558,7 @@ color 0.3s ease-in;
 	justify-content: space-around;
 	margin-top: 170px;
 	height: 68vh;
-	background: url(G:/Сайты/сайт_2/image/map.png) no-repeat;
+	background: url(/image/map.png) no-repeat;
 	background-size: cover;
 }
 
